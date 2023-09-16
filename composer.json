@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "xydk936\\Watch\\": "src/"
+            "Dmls\\Watch\\": "src/"
         }
     },
     "authors": [
