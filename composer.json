@@ -1,0 +1,20 @@
+{
+    "name": "dmls/hypef-watch-stat",
+    "description": "a hyperf watch driver",
+    "type": "library",
+    "require": {
+        "hyperf/watcher": "^3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "xydk936\\Watch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dmls",
+            "email": "dongmenleishao@outlook.com"
+        }
+    ]
+}
