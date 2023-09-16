@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Dmls\\Watch\\": "src/"
+            "Dmls\\Watcher\\": "src/"
         }
     },
     "authors": [

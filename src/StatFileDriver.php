@@ -1,6 +1,6 @@
 <?php
 
-namespace Dmls\Watch;
+namespace Dmls\Watcher;
 
 use ArrayObject;
 use Hyperf\Engine\Channel;
